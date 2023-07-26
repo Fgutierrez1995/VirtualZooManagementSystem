@@ -1,7 +1,7 @@
 Project Idea: Virtual Zoo Management System
 
 Description:
-Create a Virtual Zoo Management System that allows users to manage different types of animals, including mammals, birds, and reptiles. The system should provide functionalities for adding new animals, displaying animal information, feeding animals, and simulating activities based on animal types.
+Create a Virtual Zoo Management System that allows users to manage different types of animals, including mammals, birds, and reptiles. The system should provide functionalities for adding new animals, displaying animal information, and feeding animals.
 
 Classes:
 
@@ -35,8 +35,5 @@ Additional Enhancements:
 
 Implement input validation to handle invalid user inputs and prevent crashes.
 Add functionalities for removing animals from the zoo and updating animal information.
-Implement the concept of animal enclosures or sections within the zoo.
-Extend the simulation to include animal behaviors, such as sleep, play, and hunting, based on their specific types.
 
-Allow the zookeeper to perform activities such as training and medical checks on animals.
-By creating this Virtual Zoo Management System, you'll be able to explore more advanced concepts such as class inheritance, polymorphism, and simulating different behaviors based on animal types. It will be a challenging and rewarding project that can help you strengthen your object-oriented programming skills in C++. Happy coding!
+
